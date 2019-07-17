@@ -6,12 +6,12 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>Andres Lastra</name>
+    <name>Classic For Ever</name>
     <description>
-         App oficial  Pascual estereo
+         App oficial de la mejor musica
     </description>
-    <author email="andreslastra310@gmail.com" href="http://pascualbravo.edu.com">
-        Andres Latsra Gil
+    <author email="carlos_-111@hotmail.com" href="http://pascualbravo.edu.com">
+        Carlos Osorio
     </author>
     <content src="index.html" />
     <access origin="*" />
